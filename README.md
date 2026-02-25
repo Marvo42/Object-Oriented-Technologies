@@ -1,1 +1,2 @@
 # Object-Oriented-Technologies
+The system demonstrates both the functional requirements and object oriented principles by successfully demonstrating Encapsulation by usingg private attributes with setters and gettters, Inheritance by showing how the (User as the superclass/parent class with Admin and Agent as its respective child classes), Polymorphism by overridding methods, Association through Customer>Policy>Payment interaction.
